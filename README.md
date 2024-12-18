@@ -1,5 +1,3 @@
-# ggez
-idk
 <!DOCTYPE html>
 <html>
 <head>
